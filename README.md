@@ -8,7 +8,7 @@ Instructions:
 
 step 1: Open Git bash and type "nano ~/.bash_profile" without the quotation marks ofcourse 
 
-step 2: Open the attached text folder named "customBashPrompt", select all of its contents and copy them to your clipboard.
+step 2: View the code or Open the attached text folder named "customBashPrompt.txt", select all of its contents and copy them to your clipboard.
 
 step 3: Paste the contents that were copied to your clipboard into your bash profile. Make sure there are no preinstalled configurations that clash with the contents.
 
