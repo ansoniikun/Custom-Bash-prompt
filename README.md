@@ -6,7 +6,7 @@ This is a simple custom bash prompt I created by merging my favorite qualities f
 
 Instructions:
 
-step 1: Open Git bash and type "nano ~/.bash_profile" without the quotation marks ofcourse 
+step 1: Open Git bash and type "nano ~/.bash_profile" without the quotation marks of course 
 
 step 2: View the code or Open the attached text folder named "customBashPrompt.txt", select all of its contents and copy them to your clipboard.
 
